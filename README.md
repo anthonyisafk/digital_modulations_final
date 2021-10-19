@@ -17,4 +17,4 @@ After this, our team tried improving it by making a secondary Deep Neural Networ
 We hope we will be able to expand our research in the foreseeable future.
 
 ### Antonios Antoniou - aantonii@ece.auth.gr - tonyantonioy@yahoo.com
-### Anestis Kaimakamidis - anestisk@ece.auth.gr
+### Anestis Kaimakamidis - anestisk@ece.auth.gr - anestiskai12345@gmail.com
