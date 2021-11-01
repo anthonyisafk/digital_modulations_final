@@ -1,5 +1,5 @@
 % Generates samples of: 8PAM, BPSK, QPSK, 16PSK, 16QAM, 64QAM.
-% SNR values are set from 0 to 10 with a step of 2.
+% SNR values are set from -5 to 10 with a step of 1.
 % These samples are used as the training set for a Deep Neural Network.
 % Antonios Antoniou - aantonii@ece.auth.gr
 % Anestis Kaimakamidis - anestisk@ece.auth.gr
